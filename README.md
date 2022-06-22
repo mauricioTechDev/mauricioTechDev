@@ -2,26 +2,12 @@
 <img align = "center" alt="Coding" width="1000" height = "300" src="https://lh3.googleusercontent.com/j9P3Oxt9qoUcZMr1u0F2ORIwNk0Th51jaT5JQUUrNI8jF4XthgYhdpDH0u4_rrITLi6Ebh1e6Tjgk2O3jxWBjsGCRmFeCZ6vThWx=w600">
 </p>
 
-<h1 align="center">Greetings 👋, My Name Is Alex Docanto</h1>
+<h1 align="center">Greetings 👋, My Name Is Mauricio Acosta</h1>
 <h3 align="center">I'm A Full-Stack Developer From Boston, MA</h3>
-
-
-
-- 🔭 I’m currently working on: **a social media app that will allow users to discuss anything stock/crypto related!**
-
-- 🌱 I’m currently learning: **Node.js, Express, and MongoDB**
 
 - 💬 Ask me about: **coding, anime, sports, or whatever is important to you!**
 
-- 📫 How to reach me: **adocantocodes@gmail.com**
-
-- 📄 Want to know about my experiences? -> [https://www.canva.com/design/DAFCIyWvm2k/UiSMxY7mgaxyrNYPae3WjA/edit?utm_content=DAFCIyWvm2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFCIyWvm2k/UiSMxY7mgaxyrNYPae3WjA/edit?utm_content=DAFCIyWvm2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- ⚡ Fun fact: **I created my own NFT collection**
-
-
-
-
+- 📫 How to reach me: **mauricioacosta.dev@gmail.com**
 
 
 
