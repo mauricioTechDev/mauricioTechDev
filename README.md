@@ -5,7 +5,7 @@
 <h1 align="center">Greetings 👋, My Name Is Mauricio Acosta</h1>
 <h3 align="center">I'm A Full-Stack Developer From Boston, MA</h3>
 
-- 💬 Ask me about: **coding, sports, or whatever is important to you!**
+- 💬 Ask me about: **coding or whatever is important to you!**
 
 - 📫 How to reach me: **mauricioacosta.dev@gmail.com**
 
